@@ -75,7 +75,3 @@ Once created, you can’t change these – they’re **locked in**.
 
 ---
 
-## 🔁 Relationships Recap
-
-Here’s how it all connects:
-
